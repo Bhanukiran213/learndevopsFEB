@@ -1,3 +1,4 @@
 thsis is my new git command
 this ias adding new command to banu
 accept the command
+this adding new branch to commit
