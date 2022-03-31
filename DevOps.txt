@@ -1,1 +1,2 @@
 Todays task....create some files and push it into github central repo.
+The next class will be on Git merge and merge conflicts.
